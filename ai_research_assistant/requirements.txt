@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymupdf>=1.21.1
+faiss-cpu
+torch
+numpy
+regex
+sentence-transformers
+transformers
+scipy
+python-multipart
+httpx
+feedparser
+requests
+python-dateutil 
