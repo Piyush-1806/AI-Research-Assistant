@@ -138,4 +138,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Piyush Patra - kunalpatra18@gmail.com
 
-Project Link: https://github.com/yourusername/ai-research-assistant 
+Project Link: https://github.com/Piyush-1806/ai-research-assistant 
