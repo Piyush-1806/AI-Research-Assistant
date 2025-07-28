@@ -26,7 +26,7 @@ An intelligent, locally-running agent designed to help researchers analyze acade
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-research-assistant.git
+git clone https://github.com/Piyush-1806/ai-research-assistant.git
 cd ai-research-assistant
 ```
 
